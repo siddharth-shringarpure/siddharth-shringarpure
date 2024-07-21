@@ -11,7 +11,7 @@
   public class Sid {
     public String[] skills = new String[] {"Problem Solving", "Critical Thinking", "Communication"};
     public String[] interests = new String[] {"AI", "Data Science", "Quantum Computing"};
-    private String[] hobbies = new String[] {"♟️", "🎼", "🎚️"};
+    private String[] hobbies = new String[] {"Chess", "Music Production", "DJing"};
   }
   ```
   <h2 align="left">Languages and Tools</h2>
