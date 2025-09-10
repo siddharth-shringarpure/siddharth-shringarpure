@@ -19,12 +19,27 @@
   [![Python](https://skillicons.dev/icons?i=py)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22Python%22&type=repositories)
   [![Java](https://skillicons.dev/icons?i=java)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22Java%22&type=repositories)
   [![C](https://skillicons.dev/icons?i=c)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22C%22&type=repositories)
-  [![HTML5](https://skillicons.dev/icons?i=html)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22HTML%22&type=repositories)
-  [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22CSS%22&type=repositories)
-  [![Postgres](https://skillicons.dev/icons?i=postgres)](#)
-  [![Bash](https://skillicons.dev/icons?i=bash)](#)
+  [![TS](https://skillicons.dev/icons?i=typescript)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22TypeScript%22&type=repositories)
+  [![Haskell](https://skillicons.dev/icons?i=haskell)](https://github.com/search?q=owner%3Asiddharth-shringarpure+language%3A%22Haskell%22&type=repositories)
+
+  <h3 align="left">Frontend</h3>
   
-  [![IDEs](https://skillicons.dev/icons?i=pycharm,idea,vscodium,vim,figma,github,linux)](#)
+  [![React](https://skillicons.dev/icons?i=react,next,tailwindcss,html,css)](#)
+
+  <h3 align="left">Backend</h3>
+  
+  [![Flask](https://skillicons.dev/icons?i=flask,spring,express)](#)
+
+  <h3 align="left">Databases</h3>
+  
+  [![Databases](https://skillicons.dev/icons?i=postgres,elasticsearch,sqlite,supabase,prisma)](#)
+  
+  <h3 align="left">Tools</h3>
+  
+  [![Tools](https://skillicons.dev/icons?i=bash,postman,git,figma,linux)](#)
+
+  
+  [![IDEs](https://skillicons.dev/icons?i=pycharm,idea,vscode,vscodium,vim)](#)
 
   <h2 align="left">Contact</h2>
 
