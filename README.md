@@ -14,9 +14,9 @@
 
   | Project | Stack | Overview |
   | :--- | :--- | :--- |
-  | **[Cultiv8](https://siddharth-sh.vercel.app/projects/cultiv8)** | `Next.js` `Postgres` `Express.js` | All-in-one student platform for productivity and peer matching.<br/>Graded First Class (90%) at university. |
-  | **[SocratEase](https://siddharth-sh.vercel.app/projects/socratease)** | `Python` `Flask` `Next.js` | Multimodal speech analysis to improve communication<br/>[Won 1st Place](https://www.linkedin.com/feed/update/urn:li:activity:7311024310419111938/) (hackathon track). |
-  | **[Rightful](https://siddharth-sh.vercel.app/projects/rightful)** | `React` `Next.js` `Solidity` | Blockchain-verified plagiarism detection for IP protection.<br/>[Won 3rd Place Overall](https://www.linkedin.com/feed/update/urn:li:activity:7320386013548236800/) (hackathon). |
+  | **[Cultiv8](https://siddharth-sh.vercel.app/projects/cultiv8)** | `Next.js` `Postgres` `Express.js` | All-in-one student platform for productivity and peer matching.<br/>**Graded First Class** (90%) at university. |
+  | **[SocratEase](https://siddharth-sh.vercel.app/projects/socratease)** | `Python` `Flask` `Next.js` | Multimodal speech analysis to improve communication<br/>[**Won 1st Place**](https://www.linkedin.com/feed/update/urn:li:activity:7311024310419111938/) (hackathon track). |
+  | **[Rightful](https://siddharth-sh.vercel.app/projects/rightful)** | `React` `Next.js` `Solidity` | Blockchain-verified plagiarism detection for IP protection.<br/>[**Won 3rd Place Overall**](https://www.linkedin.com/feed/update/urn:li:activity:7320386013548236800/) (hackathon). |
 
   <h2 align="left">Context</h2>
   
