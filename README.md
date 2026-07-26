@@ -1,8 +1,8 @@
 
 <h1 align="left">Siddharth Shringarpure 👋🏾</h1>
 
-* Undergraduate AI & CS student
-* Prev. SWE Intern @ Goldman Sachs
+* Software Engineer at Goldman Sachs
+* BSc Artificial Intelligence & Computer Science Graduate
 
 <h2 align="left">Technologies and Tools</h2>
 
